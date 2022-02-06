@@ -1,0 +1,112 @@
+{"level":"fatal","msg":"invalid config: clusters[default].master: no token","time":"2022-02-04T14:02:24+05:30"}
+{"level":"fatal","msg":"invalid config: clusters[default].master: no token","time":"2022-02-04T14:02:38+05:30"}
+{"level":"fatal","msg":"invalid config: clusters[default].master: no token","time":"2022-02-04T14:02:43+05:30"}
+{"level":"fatal","msg":"invalid config: clusters[default].master: no token","time":"2022-02-04T14:03:12+05:30"}
+{"level":"fatal","msg":"invalid config: clusters[default].master: no token","time":"2022-02-04T14:03:14+05:30"}
+{"level":"fatal","msg":"invalid config: clusters[default].master: no token","time":"2022-02-04T14:03:19+05:30"}
+{"level":"fatal","msg":"invalid config: clusters[default].master: no token","time":"2022-02-04T14:03:22+05:30"}
+{"level":"info","msg":"starting cluster default","time":"2022-02-04T14:06:26+05:30"}
+{"level":"info","msg":"successful authorization as Arsh#3614","time":"2022-02-04T14:06:27+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:07:08+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:07:17+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:07:38+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls search","time":"2022-02-04T14:07:48+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:07:57+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:08:25+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:08:58+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:09:24+05:30"}
+{"level":"info","msg":"starting cluster default","time":"2022-02-04T14:17:22+05:30"}
+{"level":"info","msg":"successful authorization as Arsh#3614","time":"2022-02-04T14:17:22+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-02-04T14:18:04+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:18:32+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:18:41+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:19:21+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:19:57+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:20:11+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:20:58+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:21:30+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:21:34+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:22:01+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:22:38+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:23:04+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:23:11+05:30"}
+{"level":"info","msg":"starting cluster default","time":"2022-02-04T14:28:05+05:30"}
+{"level":"info","msg":"successful authorization as Arsh#3614","time":"2022-02-04T14:28:06+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls crime","time":"2022-02-04T14:28:29+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:28:39+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls dig","time":"2022-02-04T14:28:56+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls scratch 800","time":"2022-02-04T14:29:06+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:29:16+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-02-04T14:29:26+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:29:49+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls scratch 800","time":"2022-02-04T14:29:59+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls pm","time":"2022-02-04T14:30:08+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls crime","time":"2022-02-04T14:30:18+05:30"}
+{"level":"info","msg":"starting cluster default","time":"2022-02-04T14:34:04+05:30"}
+{"level":"info","msg":"successful authorization as Arsh#3614","time":"2022-02-04T14:34:05+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 3000","time":"2022-02-04T14:34:45+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:34:47+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:34:53+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:35:12+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:35:21+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 3000","time":"2022-02-04T14:35:42+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:36:06+05:30"}
+{"level":"info","msg":"starting cluster default","time":"2022-02-04T14:36:11+05:30"}
+{"level":"info","msg":"successful authorization as Arsh#3614","time":"2022-02-04T14:36:12+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:36:37+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:37:01+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:37:16+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-02-04T14:37:25+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:37:47+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:38:04+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:38:45+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:39:17+05:30"}
+{"level":"info","msg":"starting cluster default","time":"2022-02-04T14:40:08+05:30"}
+{"level":"info","msg":"successful authorization as Arsh#3614","time":"2022-02-04T14:40:09+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls use tidepod","time":"2022-02-04T14:40:51+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 3000","time":"2022-02-04T14:41:09+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:41:26+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:41:35+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls pm","time":"2022-02-04T14:42:07+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls crime","time":"2022-02-04T14:42:16+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:42:30+05:30"}
+{"level":"info","msg":"starting cluster default","time":"2022-02-04T14:43:32+05:30"}
+{"level":"info","msg":"successful authorization as Arsh#3614","time":"2022-02-04T14:43:32+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls pm","time":"2022-02-04T14:43:49+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls use tidepod","time":"2022-02-04T14:44:17+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:44:41+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:44:50+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:45:25+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:46:06+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:46:38+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:47:12+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-02-04T14:47:52+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:48:20+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:48:42+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:49:06+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:49:25+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:49:32+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-02-04T14:50:19+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:50:39+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:51:23+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:51:34+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:51:41+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-02-04T14:51:57+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:52:24+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:53:05+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:53:18+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:53:25+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:54:19+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:54:39+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:55:19+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:55:25+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:55:32+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:55:59+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:56:03+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:56:09+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:56:50+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:56:56+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:57:29+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:58:09+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:58:14+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:58:21+05:30"}

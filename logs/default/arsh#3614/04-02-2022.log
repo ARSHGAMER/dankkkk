@@ -1,0 +1,582 @@
+{"duration":8597000000000,"level":"info","msg":"starting shift 1","state":"active","time":"2022-02-04T14:06:27+05:30"}
+{"delay":"231ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:06:32+05:30","typing":"1.077s"}
+{"delay":"217ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:06:34+05:30","typing":"872ms"}
+{"delay":"345ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:06:37+05:30","typing":"1.441s"}
+{"delay":"140ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:06:41+05:30","typing":"1.28s"}
+{"delay":"365ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:06:44+05:30","typing":"799ms"}
+{"delay":"224ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:06:48+05:30","typing":"1.249s"}
+{"delay":"440ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:06:50+05:30","typing":"1.134s"}
+{"delay":"335ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:06:53+05:30","typing":"1.13s"}
+{"delay":"291ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:06:55+05:30","typing":"1.102s"}
+{"level":"info","msg":"current wallet balance: 2,320 coins","time":"2022-02-04T14:06:55+05:30"}
+{"delay":"148ms","level":"info","msg":"sending command: pls bj 50","time":"2022-02-04T14:06:58+05:30","typing":"1.319s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:07:08+05:30"}
+{"delay":"310ms","level":"info","msg":"sending command: pls work","time":"2022-02-04T14:07:08+05:30","typing":"1.294s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:07:17+05:30"}
+{"delay":"195ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:07:17+05:30","typing":"1.51s"}
+{"delay":"270ms","level":"info","msg":"sending command: pls work mod","time":"2022-02-04T14:07:21+05:30","typing":"1.799s"}
+{"delay":"492ms","level":"info","msg":"sending command: pls sell boar max","time":"2022-02-04T14:07:25+05:30","typing":"2.476s"}
+{"delay":"357ms","level":"info","msg":"sending command: pls bj 50","time":"2022-02-04T14:07:29+05:30","typing":"1.288s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:07:38+05:30"}
+{"delay":"202ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:07:38+05:30","typing":"1.54s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls search","time":"2022-02-04T14:07:48+05:30"}
+{"delay":"399ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:07:48+05:30","typing":"808ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:07:57+05:30"}
+{"delay":"490ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:07:57+05:30","typing":"1s"}
+{"delay":"188ms","level":"info","msg":"sending command: pls sell dragon max","time":"2022-02-04T14:07:59+05:30","typing":"2.734s"}
+{"delay":"305ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:08:03+05:30","typing":"1.413s"}
+{"delay":"267ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:08:07+05:30","typing":"1.204s"}
+{"delay":"272ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:08:11+05:30","typing":"927ms"}
+{"delay":"224ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:08:14+05:30","typing":"939ms"}
+{"delay":"339ms","level":"info","msg":"sending command: pls bj 50","time":"2022-02-04T14:08:16+05:30","typing":"1.215s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:08:25+05:30"}
+{"delay":"388ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:08:25+05:30","typing":"1.203s"}
+{"delay":"248ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:08:28+05:30","typing":"1.251s"}
+{"delay":"116ms","level":"info","msg":"sending command: pls sell duck max","time":"2022-02-04T14:08:33+05:30","typing":"2.295s"}
+{"delay":"240ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:08:37+05:30","typing":"1.538s"}
+{"delay":"386ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:08:40+05:30","typing":"1.511s"}
+{"delay":"176ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:08:44+05:30","typing":"917ms"}
+{"delay":"409ms","level":"info","msg":"sending command: pls bj 50","time":"2022-02-04T14:08:48+05:30","typing":"1.366s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:08:58+05:30"}
+{"delay":"298ms","level":"info","msg":"sending command: pls sell fish max","time":"2022-02-04T14:08:58+05:30","typing":"2.426s"}
+{"delay":"156ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:09:02+05:30","typing":"1.062s"}
+{"delay":"492ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:09:04+05:30","typing":"1.475s"}
+{"delay":"448ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:09:08+05:30","typing":"1.118s"}
+{"delay":"359ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:09:11+05:30","typing":"1.304s"}
+{"delay":"399ms","level":"info","msg":"sending command: pls bj 50","time":"2022-02-04T14:09:14+05:30","typing":"1.393s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 50","time":"2022-02-04T14:09:24+05:30"}
+{"delay":"340ms","level":"info","msg":"sending command: pls sell deer max","time":"2022-02-04T14:09:24+05:30","typing":"2.441s"}
+{"delay":"277ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:09:28+05:30","typing":"945ms"}
+{"duration":7820000000000,"level":"info","msg":"starting shift 1","state":"active","time":"2022-02-04T14:17:22+05:30"}
+{"delay":"422ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:17:26+05:30","typing":"1.17s"}
+{"delay":"219ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:17:29+05:30","typing":"863ms"}
+{"delay":"314ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:17:31+05:30","typing":"1.562s"}
+{"delay":"392ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:17:35+05:30","typing":"1.273s"}
+{"delay":"244ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:17:38+05:30","typing":"973ms"}
+{"delay":"145ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:17:41+05:30","typing":"1.215s"}
+{"delay":"199ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:17:44+05:30","typing":"1.155s"}
+{"delay":"174ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:17:46+05:30","typing":"962ms"}
+{"delay":"404ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:17:48+05:30","typing":"962ms"}
+{"level":"info","msg":"current wallet balance: 26,736 coins","time":"2022-02-04T14:17:48+05:30"}
+{"delay":"333ms","level":"info","msg":"sending command: pls bj 1000","time":"2022-02-04T14:17:51+05:30","typing":"1.565s"}
+{"level":"info","msg":"calculated blackjack hand as: 12 against dealer's 6","time":"2022-02-04T14:17:54+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 16 against dealer's 6","time":"2022-02-04T14:17:55+05:30"}
+{"delay":"284ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:17:55+05:30","typing":"2.134s"}
+{"level":"info","msg":"calculated blackjack hand as: 16 against dealer's 6","time":"2022-02-04T14:17:56+05:30"}
+{"level":"info","msg":"current wallet balance: 27,324 coins","time":"2022-02-04T14:17:56+05:30"}
+{"level":"info","msg":"average income: 296,205 coins/h","time":"2022-02-04T14:17:56+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-02-04T14:18:04+05:30"}
+{"level":"info","msg":"sleeping for 20 seconds","time":"2022-02-04T14:18:04+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:18:32+05:30"}
+{"delay":"303ms","level":"info","msg":"sending command: pls work","time":"2022-02-04T14:18:32+05:30","typing":"1.276s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:18:41+05:30"}
+{"delay":"466ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:18:41+05:30","typing":"1.547s"}
+{"delay":"453ms","level":"info","msg":"sending command: pls work twitchstreamer","time":"2022-02-04T14:18:45+05:30","typing":"3.228s"}
+{"delay":"211ms","level":"info","msg":"sending command: pls sell boar max","time":"2022-02-04T14:18:50+05:30","typing":"2.274s"}
+{"delay":"398ms","level":"info","msg":"sending command: pls bj 1000","time":"2022-02-04T14:18:53+05:30","typing":"1.666s"}
+{"level":"info","msg":"calculated blackjack hand as: 9 against dealer's 10","time":"2022-02-04T14:18:56+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 19 against dealer's 10","time":"2022-02-04T14:18:57+05:30"}
+{"delay":"396ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:18:58+05:30","typing":"1.405s"}
+{"level":"info","msg":"calculated blackjack hand as: 19 against dealer's 10","time":"2022-02-04T14:18:58+05:30"}
+{"level":"info","msg":"current wallet balance: 29,128 coins","time":"2022-02-04T14:18:58+05:30"}
+{"level":"info","msg":"average income: 123,158 coins/h","time":"2022-02-04T14:18:58+05:30"}
+{"delay":"473ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:19:03+05:30","typing":"823ms"}
+{"delay":"230ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:19:06+05:30","typing":"2.275s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:19:21+05:30"}
+{"delay":"185ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:19:21+05:30","typing":"979ms"}
+{"delay":"149ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:19:23+05:30","typing":"1.441s"}
+{"delay":"365ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:19:27+05:30","typing":"1.041s"}
+{"delay":"325ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:19:29+05:30","typing":"1.022s"}
+{"delay":"271ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:19:32+05:30","typing":"1.223s"}
+{"delay":"319ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:19:35+05:30","typing":"1.077s"}
+{"delay":"237ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:19:37+05:30","typing":"1.531s"}
+{"delay":"307ms","level":"info","msg":"sending command: pls sell dragon max","time":"2022-02-04T14:19:41+05:30","typing":"2.648s"}
+{"delay":"150ms","level":"info","msg":"sending command: pls bj 1000","time":"2022-02-04T14:19:46+05:30","typing":"1.579s"}
+{"level":"info","msg":"calculated blackjack hand as: 11 against dealer's 8","time":"2022-02-04T14:19:49+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 21 against dealer's 8","time":"2022-02-04T14:19:50+05:30"}
+{"level":"info","msg":"current wallet balance: 32,943 coins","time":"2022-02-04T14:19:50+05:30"}
+{"level":"info","msg":"average income: 184,494 coins/h","time":"2022-02-04T14:19:50+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:19:57+05:30"}
+{"delay":"429ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:19:57+05:30","typing":"2.279s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:20:11+05:30"}
+{"delay":"278ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:20:11+05:30","typing":"895ms"}
+{"delay":"237ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:20:14+05:30","typing":"1.403s"}
+{"delay":"135ms","level":"info","msg":"sending command: pls sell duck max","time":"2022-02-04T14:20:18+05:30","typing":"2.459s"}
+{"delay":"106ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:20:22+05:30","typing":"1.548s"}
+{"delay":"318ms","level":"info","msg":"sending command: pls bj 1000","time":"2022-02-04T14:20:26+05:30","typing":"1.645s"}
+{"level":"info","msg":"calculated blackjack hand as: 20 against dealer's 4","time":"2022-02-04T14:20:29+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 20 against dealer's 4","time":"2022-02-04T14:20:30+05:30"}
+{"level":"info","msg":"current wallet balance: 38,414 coins","time":"2022-02-04T14:20:30+05:30"}
+{"level":"info","msg":"average income: 260,297 coins/h","time":"2022-02-04T14:20:30+05:30"}
+{"delay":"244ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:20:32+05:30","typing":"965ms"}
+{"delay":"323ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:20:34+05:30","typing":"1.165s"}
+{"delay":"165ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:20:36+05:30","typing":"2.362s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:20:58+05:30"}
+{"delay":"134ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:20:58+05:30","typing":"1.371s"}
+{"delay":"435ms","level":"info","msg":"sending command: pls sell fish max","time":"2022-02-04T14:21:02+05:30","typing":"2.447s"}
+{"delay":"453ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:21:05+05:30","typing":"983ms"}
+{"delay":"338ms","level":"info","msg":"no laptop, buying a new one: pls buy laptop 1","time":"2022-02-04T14:21:07+05:30","typing":"2.374s"}
+{"delay":"110ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:21:11+05:30","typing":"1.253s"}
+{"delay":"261ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:21:13+05:30","typing":"1.468s"}
+{"delay":"296ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:21:17+05:30","typing":"1.164s"}
+{"delay":"456ms","level":"info","msg":"sending command: pls bj 1000","time":"2022-02-04T14:21:22+05:30","typing":"1.479s"}
+{"level":"info","msg":"calculated blackjack hand as: 13 against dealer's 9","time":"2022-02-04T14:21:27+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:21:30+05:30"}
+{"level":"info","msg":"current wallet balance: 33,814 coins","time":"2022-02-04T14:21:30+05:30"}
+{"level":"info","msg":"average income: 115,152 coins/h","time":"2022-02-04T14:21:30+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:21:34+05:30"}
+{"delay":"165ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:21:34+05:30","typing":"957ms"}
+{"delay":"229ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:21:38+05:30","typing":"1.061s"}
+{"delay":"335ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:21:41+05:30","typing":"1.449s"}
+{"level":"info","msg":"current wallet balance: 33,814 coins","time":"2022-02-04T14:21:41+05:30"}
+{"level":"info","msg":"average income: 109,746 coins/h","time":"2022-02-04T14:21:41+05:30"}
+{"delay":"377ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:21:45+05:30","typing":"2.144s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:22:01+05:30"}
+{"delay":"194ms","level":"info","msg":"sending command: pls sell deer max","time":"2022-02-04T14:22:01+05:30","typing":"2.267s"}
+{"delay":"466ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:22:05+05:30","typing":"1.076s"}
+{"delay":"264ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:22:08+05:30","typing":"1.017s"}
+{"delay":"313ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:22:10+05:30","typing":"1.537s"}
+{"delay":"206ms","level":"info","msg":"sending command: pls bj 1000","time":"2022-02-04T14:22:14+05:30","typing":"1.617s"}
+{"level":"info","msg":"calculated blackjack hand as: 20 against dealer's 10","time":"2022-02-04T14:22:17+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 20 against dealer's 10","time":"2022-02-04T14:22:18+05:30"}
+{"level":"info","msg":"current wallet balance: 35,216 coins","time":"2022-02-04T14:22:18+05:30"}
+{"level":"info","msg":"average income: 113,414 coins/h","time":"2022-02-04T14:22:18+05:30"}
+{"delay":"194ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:22:20+05:30","typing":"1.197s"}
+{"delay":"489ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:22:23+05:30","typing":"2.349s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:22:38+05:30"}
+{"delay":"346ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:22:38+05:30","typing":"855ms"}
+{"delay":"462ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:22:41+05:30","typing":"913ms"}
+{"delay":"388ms","level":"info","msg":"sending command: pls sell rabbit max","time":"2022-02-04T14:22:44+05:30","typing":"2.715s"}
+{"delay":"356ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:22:48+05:30","typing":"1.118s"}
+{"delay":"300ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:22:50+05:30","typing":"1.407s"}
+{"delay":"134ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:22:54+05:30","typing":"1.275s"}
+{"delay":"496ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:22:57+05:30","typing":"1.437s"}
+{"delay":"444ms","level":"info","msg":"sending command: pls bj 1000","time":"2022-02-04T14:23:00+05:30","typing":"1.553s"}
+{"level":"info","msg":"calculated blackjack hand as: 14 against dealer's 2","time":"2022-02-04T14:23:03+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:23:04+05:30"}
+{"level":"info","msg":"current wallet balance: 56,494 coins","time":"2022-02-04T14:23:04+05:30"}
+{"level":"info","msg":"average income: 339,372 coins/h","time":"2022-02-04T14:23:04+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:23:11+05:30"}
+{"delay":"209ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:23:12+05:30","typing":"2.142s"}
+{"duration":8992000000000,"level":"info","msg":"starting shift 1","state":"active","time":"2022-02-04T14:28:06+05:30"}
+{"delay":"211ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:28:10+05:30","typing":"1.072s"}
+{"delay":"342ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:28:12+05:30","typing":"887ms"}
+{"delay":"194ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:28:15+05:30","typing":"1.397s"}
+{"delay":"217ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:28:19+05:30","typing":"1.434s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls crime","time":"2022-02-04T14:28:29+05:30"}
+{"delay":"345ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:28:29+05:30","typing":"881ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:28:39+05:30"}
+{"delay":"214ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:28:39+05:30","typing":"1.139s"}
+{"delay":"326ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:28:41+05:30","typing":"1.17s"}
+{"delay":"274ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:28:44+05:30","typing":"990ms"}
+{"delay":"322ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:28:46+05:30","typing":"1.046s"}
+{"level":"info","msg":"current wallet balance: 3,589 coins","time":"2022-02-04T14:28:46+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls dig","time":"2022-02-04T14:28:56+05:30"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 5000","time":"2022-02-04T14:28:56+05:30"}
+{"delay":"233ms","level":"info","msg":"sending command: pls scratch 800","time":"2022-02-04T14:28:56+05:30","typing":"2.093s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls scratch 800","time":"2022-02-04T14:29:06+05:30"}
+{"delay":"175ms","level":"info","msg":"sending command: pls work","time":"2022-02-04T14:29:06+05:30","typing":"1.273s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:29:16+05:30"}
+{"delay":"129ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:29:16+05:30","typing":"1.512s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-02-04T14:29:26+05:30"}
+{"delay":"128ms","level":"info","msg":"sending command: pls dep all","time":"2022-02-04T14:29:27+05:30","typing":"1.523s"}
+{"delay":"110ms","level":"info","msg":"sending command: pls sell boar max","time":"2022-02-04T14:29:30+05:30","typing":"2.404s"}
+{"delay":"281ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:29:34+05:30","typing":"1.362s"}
+{"delay":"246ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:29:37+05:30","typing":"975ms"}
+{"delay":"190ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:29:39+05:30","typing":"983ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:29:49+05:30"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 5000","time":"2022-02-04T14:29:49+05:30"}
+{"delay":"363ms","level":"info","msg":"sending command: pls scratch 800","time":"2022-02-04T14:29:49+05:30","typing":"2.015s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls scratch 800","time":"2022-02-04T14:29:59+05:30"}
+{"delay":"319ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:29:59+05:30","typing":"820ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls pm","time":"2022-02-04T14:30:08+05:30"}
+{"delay":"414ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:30:08+05:30","typing":"1.277s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls crime","time":"2022-02-04T14:30:18+05:30"}
+{"delay":"228ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:30:18+05:30","typing":"1.012s"}
+{"delay":"289ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:30:20+05:30","typing":"1.448s"}
+{"delay":"221ms","level":"info","msg":"sending command: pls sell dragon max","time":"2022-02-04T14:30:23+05:30","typing":"2.626s"}
+{"delay":"455ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:30:28+05:30","typing":"1.303s"}
+{"delay":"394ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:30:31+05:30","typing":"1.215s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 5000","time":"2022-02-04T14:30:35+05:30"}
+{"delay":"182ms","level":"info","msg":"sending command: pls scratch 800","time":"2022-02-04T14:30:35+05:30","typing":"2.205s"}
+{"duration":8031000000000,"level":"info","msg":"starting shift 1","state":"active","time":"2022-02-04T14:34:05+05:30"}
+{"delay":"209ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:34:08+05:30","typing":"993ms"}
+{"delay":"124ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:34:11+05:30","typing":"1.017s"}
+{"delay":"437ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:34:14+05:30","typing":"1.551s"}
+{"delay":"169ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:34:18+05:30","typing":"1.381s"}
+{"delay":"362ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:34:21+05:30","typing":"1.008s"}
+{"delay":"349ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:34:25+05:30","typing":"1.297s"}
+{"delay":"283ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:34:28+05:30","typing":"1.161s"}
+{"delay":"407ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:34:30+05:30","typing":"1.141s"}
+{"delay":"149ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:34:32+05:30","typing":"964ms"}
+{"level":"info","msg":"current wallet balance: 22,502 coins","time":"2022-02-04T14:34:32+05:30"}
+{"delay":"209ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:34:35+05:30","typing":"1.565s"}
+{"level":"info","msg":"calculated blackjack hand as: 14 against dealer's A","time":"2022-02-04T14:34:38+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 3000","time":"2022-02-04T14:34:45+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 15 against dealer's A","time":"2022-02-04T14:34:46+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:34:47+05:30"}
+{"level":"info","msg":"current wallet balance: 19,502 coins","time":"2022-02-04T14:34:47+05:30"}
+{"level":"info","msg":"average income: -763,482 coins/h","time":"2022-02-04T14:34:47+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:34:53+05:30"}
+{"delay":"360ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:34:53+05:30","typing":"2.251s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:35:12+05:30"}
+{"delay":"408ms","level":"info","msg":"sending command: pls work","time":"2022-02-04T14:35:12+05:30","typing":"1.208s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:35:21+05:30"}
+{"delay":"234ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:35:21+05:30","typing":"1.55s"}
+{"delay":"398ms","level":"info","msg":"sending command: pls dep all","time":"2022-02-04T14:35:25+05:30","typing":"1.566s"}
+{"delay":"262ms","level":"info","msg":"sending command: pls sell boar max","time":"2022-02-04T14:35:28+05:30","typing":"2.372s"}
+{"delay":"437ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:35:32+05:30","typing":"1.675s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 3000","time":"2022-02-04T14:35:42+05:30"}
+{"delay":"250ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:35:42+05:30","typing":"1.52s"}
+{"delay":"490ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:35:46+05:30","typing":"954ms"}
+{"delay":"198ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:35:49+05:30","typing":"932ms"}
+{"delay":"305ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:35:51+05:30","typing":"2.319s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:36:06+05:30"}
+{"delay":"301ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:36:06+05:30","typing":"1.35s"}
+{"duration":8068000000000,"level":"info","msg":"starting shift 1","state":"active","time":"2022-02-04T14:36:12+05:30"}
+{"delay":"325ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:36:15+05:30","typing":"1.087s"}
+{"delay":"383ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:36:18+05:30","typing":"835ms"}
+{"delay":"326ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:36:21+05:30","typing":"1.354s"}
+{"delay":"162ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:36:24+05:30","typing":"1.362s"}
+{"delay":"177ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:36:28+05:30","typing":"934ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:36:37+05:30"}
+{"delay":"320ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:36:37+05:30","typing":"1.156s"}
+{"delay":"478ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:36:40+05:30","typing":"1.139s"}
+{"delay":"115ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:36:42+05:30","typing":"1.131s"}
+{"level":"info","msg":"current wallet balance: 4,055 coins","time":"2022-02-04T14:36:45+05:30"}
+{"delay":"475ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:36:45+05:30","typing":"1.129s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:36:47+05:30"}
+{"delay":"450ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:36:47+05:30","typing":"2.365s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:37:01+05:30"}
+{"delay":"322ms","level":"info","msg":"sending command: pls work","time":"2022-02-04T14:37:01+05:30","typing":"1.291s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:37:16+05:30"}
+{"delay":"360ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:37:16+05:30","typing":"1.373s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-02-04T14:37:25+05:30"}
+{"delay":"418ms","level":"info","msg":"sending command: pls dep 10k","time":"2022-02-04T14:37:26+05:30","typing":"1.567s"}
+{"delay":"419ms","level":"info","msg":"sending command: pls sell boar max","time":"2022-02-04T14:37:30+05:30","typing":"2.493s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:37:34+05:30"}
+{"delay":"446ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:37:34+05:30","typing":"1.429s"}
+{"delay":"418ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:37:37+05:30","typing":"864ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:37:47+05:30"}
+{"delay":"310ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:37:47+05:30","typing":"2.295s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:38:04+05:30"}
+{"delay":"262ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:38:04+05:30","typing":"931ms"}
+{"delay":"260ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:38:07+05:30","typing":"1.399s"}
+{"delay":"396ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:38:10+05:30","typing":"896ms"}
+{"delay":"261ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:38:13+05:30","typing":"1.048s"}
+{"delay":"422ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:38:16+05:30","typing":"1.342s"}
+{"delay":"382ms","level":"info","msg":"sending command: pls sell dragon max","time":"2022-02-04T14:38:19+05:30","typing":"2.755s"}
+{"delay":"497ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:38:24+05:30","typing":"1.172s"}
+{"delay":"414ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:38:27+05:30","typing":"1.089s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:38:30+05:30"}
+{"delay":"320ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:38:30+05:30","typing":"2.358s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:38:45+05:30"}
+{"delay":"441ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:38:45+05:30","typing":"1.017s"}
+{"delay":"154ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:38:50+05:30","typing":"1.51s"}
+{"delay":"185ms","level":"info","msg":"sending command: pls sell duck max","time":"2022-02-04T14:38:53+05:30","typing":"2.405s"}
+{"delay":"308ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:38:57+05:30","typing":"1.526s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:39:01+05:30"}
+{"delay":"364ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:39:01+05:30","typing":"2.308s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:39:17+05:30"}
+{"delay":"129ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:39:17+05:30","typing":"955ms"}
+{"delay":"185ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:39:19+05:30","typing":"1.119s"}
+{"delay":"236ms","level":"info","msg":"sending command: pls sell fish max","time":"2022-02-04T14:39:22+05:30","typing":"2.341s"}
+{"delay":"416ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:39:26+05:30","typing":"1.375s"}
+{"duration":7692000000000,"level":"info","msg":"starting shift 1","state":"active","time":"2022-02-04T14:40:09+05:30"}
+{"delay":"114ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:40:14+05:30","typing":"979ms"}
+{"delay":"410ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:40:16+05:30","typing":"1.015s"}
+{"delay":"254ms","level":"info","msg":"no laptop, buying a new one: pls buy laptop 1","time":"2022-02-04T14:40:18+05:30","typing":"2.162s"}
+{"delay":"202ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:40:22+05:30","typing":"1.475s"}
+{"delay":"463ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:40:26+05:30","typing":"1.395s"}
+{"delay":"473ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:40:29+05:30","typing":"897ms"}
+{"delay":"303ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:40:33+05:30","typing":"1.229s"}
+{"delay":"431ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:40:35+05:30","typing":"1.289s"}
+{"delay":"218ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:40:38+05:30","typing":"965ms"}
+{"delay":"497ms","level":"info","msg":"sending command: pls use tidepod","time":"2022-02-04T14:40:40+05:30","typing":"2.163s"}
+{"level":"info","msg":"current wallet balance: 11,011 coins","time":"2022-02-04T14:40:40+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls use tidepod","time":"2022-02-04T14:40:51+05:30"}
+{"delay":"397ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:40:51+05:30","typing":"1.109s"}
+{"delay":"363ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:40:59+05:30","typing":"1.621s"}
+{"level":"info","msg":"calculated blackjack hand as: 16 against dealer's 3","time":"2022-02-04T14:41:02+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls bj 3000","time":"2022-02-04T14:41:09+05:30"}
+{"delay":"131ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:41:10+05:30","typing":"2.131s"}
+{"level":"info","msg":"calculated blackjack hand as: 16 against dealer's 3","time":"2022-02-04T14:41:10+05:30"}
+{"level":"info","msg":"current wallet balance: 8,011 coins","time":"2022-02-04T14:41:10+05:30"}
+{"level":"info","msg":"average income: -360,433 coins/h","time":"2022-02-04T14:41:10+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:41:26+05:30"}
+{"delay":"465ms","level":"info","msg":"sending command: pls work","time":"2022-02-04T14:41:26+05:30","typing":"1.252s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:41:35+05:30"}
+{"delay":"192ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:41:35+05:30","typing":"1.434s"}
+{"delay":"118ms","level":"info","msg":"sending command: pls dep 5k","time":"2022-02-04T14:41:40+05:30","typing":"1.433s"}
+{"delay":"478ms","level":"info","msg":"sending command: pls sell boar max","time":"2022-02-04T14:41:44+05:30","typing":"2.289s"}
+{"delay":"461ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:41:47+05:30","typing":"1.376s"}
+{"delay":"434ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:41:51+05:30","typing":"1.039s"}
+{"delay":"441ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:41:54+05:30","typing":"979ms"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:41:57+05:30"}
+{"delay":"212ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:41:57+05:30","typing":"837ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls pm","time":"2022-02-04T14:42:07+05:30"}
+{"delay":"288ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:42:07+05:30","typing":"1.249s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls crime","time":"2022-02-04T14:42:16+05:30"}
+{"delay":"163ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:42:16+05:30","typing":"2.359s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:42:30+05:30"}
+{"duration":7341000000000,"level":"info","msg":"starting shift 1","state":"active","time":"2022-02-04T14:43:32+05:30"}
+{"delay":"244ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:43:37+05:30","typing":"1.149s"}
+{"delay":"474ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:43:39+05:30","typing":"981ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls pm","time":"2022-02-04T14:43:49+05:30"}
+{"delay":"166ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:43:49+05:30","typing":"1.494s"}
+{"delay":"123ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:43:53+05:30","typing":"1.355s"}
+{"delay":"168ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:43:57+05:30","typing":"812ms"}
+{"delay":"499ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:44:00+05:30","typing":"1.253s"}
+{"delay":"475ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:44:02+05:30","typing":"1.097s"}
+{"delay":"410ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:44:05+05:30","typing":"1.075s"}
+{"delay":"205ms","level":"info","msg":"sending command: pls use tidepod","time":"2022-02-04T14:44:07+05:30","typing":"1.996s"}
+{"level":"info","msg":"current wallet balance: 5,617 coins","time":"2022-02-04T14:44:08+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls use tidepod","time":"2022-02-04T14:44:17+05:30"}
+{"delay":"215ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:44:17+05:30","typing":"1.078s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:44:26+05:30"}
+{"delay":"262ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:44:26+05:30","typing":"2.221s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:44:41+05:30"}
+{"delay":"437ms","level":"info","msg":"sending command: pls work","time":"2022-02-04T14:44:41+05:30","typing":"1.152s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls work","time":"2022-02-04T14:44:50+05:30"}
+{"delay":"497ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:44:50+05:30","typing":"1.576s"}
+{"delay":"158ms","level":"info","msg":"sending command: pls dep 5k","time":"2022-02-04T14:44:54+05:30","typing":"1.559s"}
+{"delay":"249ms","level":"info","msg":"sending command: pls sell boar max","time":"2022-02-04T14:44:58+05:30","typing":"2.278s"}
+{"delay":"153ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:45:01+05:30","typing":"936ms"}
+{"delay":"497ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:45:03+05:30","typing":"1.357s"}
+{"delay":"241ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:45:06+05:30","typing":"962ms"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:45:10+05:30"}
+{"delay":"487ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:45:10+05:30","typing":"2.319s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:45:25+05:30"}
+{"delay":"386ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:45:25+05:30","typing":"975ms"}
+{"delay":"185ms","level":"info","msg":"no laptop, buying a new one: pls buy laptop 1","time":"2022-02-04T14:45:27+05:30","typing":"2.362s"}
+{"delay":"340ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:45:30+05:30","typing":"1.428s"}
+{"delay":"234ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:45:34+05:30","typing":"987ms"}
+{"delay":"219ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:45:37+05:30","typing":"1.115s"}
+{"delay":"438ms","level":"info","msg":"sending command: pls sell dragon max","time":"2022-02-04T14:45:40+05:30","typing":"2.669s"}
+{"delay":"258ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:45:43+05:30","typing":"1.074s"}
+{"delay":"222ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:45:46+05:30","typing":"1.381s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:45:49+05:30"}
+{"delay":"453ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:45:49+05:30","typing":"2.354s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:46:06+05:30"}
+{"delay":"353ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:46:06+05:30","typing":"952ms"}
+{"delay":"422ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:46:09+05:30","typing":"1.471s"}
+{"delay":"348ms","level":"info","msg":"sending command: pls sell duck max","time":"2022-02-04T14:46:13+05:30","typing":"2.379s"}
+{"delay":"290ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:46:16+05:30","typing":"1.034s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:46:18+05:30"}
+{"delay":"332ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:46:18+05:30","typing":"1.542s"}
+{"delay":"314ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:46:22+05:30","typing":"2.26s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:46:38+05:30"}
+{"delay":"104ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:46:38+05:30","typing":"1.035s"}
+{"delay":"163ms","level":"info","msg":"sending command: pls sell fish max","time":"2022-02-04T14:46:41+05:30","typing":"2.324s"}
+{"delay":"405ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:46:44+05:30","typing":"1.37s"}
+{"delay":"228ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:46:52+05:30","typing":"866ms"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:46:56+05:30"}
+{"delay":"130ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:46:56+05:30","typing":"1.575s"}
+{"delay":"199ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:47:00+05:30","typing":"2.24s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:47:12+05:30"}
+{"delay":"217ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:47:15+05:30","typing":"832ms"}
+{"delay":"193ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:47:18+05:30","typing":"1.138s"}
+{"delay":"425ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:47:21+05:30","typing":"1.175s"}
+{"delay":"313ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:47:24+05:30","typing":"1.577s"}
+{"delay":"282ms","level":"info","msg":"sending command: pls sell deer max","time":"2022-02-04T14:47:27+05:30","typing":"2.457s"}
+{"delay":"355ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:47:31+05:30","typing":"1.12s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:47:33+05:30"}
+{"delay":"312ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:47:33+05:30","typing":"1.576s"}
+{"delay":"362ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:47:40+05:30","typing":"2.37s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-02-04T14:47:52+05:30"}
+{"level":"info","msg":"sleeping for 20 seconds","time":"2022-02-04T14:47:52+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:48:20+05:30"}
+{"delay":"279ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:48:20+05:30","typing":"1.088s"}
+{"delay":"158ms","level":"info","msg":"sending command: pls sell rabbit max","time":"2022-02-04T14:48:23+05:30","typing":"2.621s"}
+{"delay":"287ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:48:26+05:30","typing":"1.358s"}
+{"level":"info","msg":"stopped execution of command because its conditions were not satisfied: pls bj 3000","time":"2022-02-04T14:48:30+05:30"}
+{"delay":"462ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:48:30+05:30","typing":"1.025s"}
+{"delay":"390ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:48:32+05:30","typing":"860ms"}
+{"level":"info","msg":"current wallet balance: 15,451 coins","time":"2022-02-04T14:48:32+05:30"}
+{"level":"info","msg":"average income: 133,766 coins/h","time":"2022-02-04T14:48:32+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:48:42+05:30"}
+{"delay":"299ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:48:42+05:30","typing":"1.429s"}
+{"delay":"154ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:48:45+05:30","typing":"1.03s"}
+{"delay":"302ms","level":"info","msg":"no laptop, buying a new one: pls buy laptop 1","time":"2022-02-04T14:48:47+05:30","typing":"2.186s"}
+{"delay":"112ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:48:51+05:30","typing":"2.257s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:49:06+05:30"}
+{"delay":"292ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:49:06+05:30","typing":"1.469s"}
+{"delay":"459ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:49:10+05:30","typing":"1.128s"}
+{"level":"info","msg":"current wallet balance: 16,252 coins","time":"2022-02-04T14:49:11+05:30"}
+{"level":"info","msg":"average income: 126,209 coins/h","time":"2022-02-04T14:49:11+05:30"}
+{"delay":"481ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:49:12+05:30","typing":"1.083s"}
+{"delay":"221ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:49:15+05:30","typing":"1.086s"}
+{"delay":"122ms","level":"info","msg":"sending command: pls sell skunk max","time":"2022-02-04T14:49:17+05:30","typing":"2.633s"}
+{"delay":"224ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:49:21+05:30","typing":"1.516s"}
+{"level":"info","msg":"calculated blackjack hand as: 12 against dealer's 9","time":"2022-02-04T14:49:24+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:49:25+05:30"}
+{"level":"info","msg":"current wallet balance: 19,135 coins","time":"2022-02-04T14:49:25+05:30"}
+{"level":"info","msg":"average income: 153,327 coins/h","time":"2022-02-04T14:49:25+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:49:32+05:30"}
+{"delay":"380ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:49:32+05:30","typing":"1.437s"}
+{"delay":"418ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:49:35+05:30","typing":"1.137s"}
+{"delay":"329ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:49:39+05:30","typing":"837ms"}
+{"delay":"275ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:49:42+05:30","typing":"2.24s"}
+{"delay":"486ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:49:57+05:30","typing":"1.219s"}
+{"delay":"490ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:50:00+05:30","typing":"1.625s"}
+{"level":"info","msg":"calculated blackjack hand as: 12 against dealer's 8","time":"2022-02-04T14:50:03+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 18 against dealer's 8","time":"2022-02-04T14:50:04+05:30"}
+{"delay":"394ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:50:05+05:30","typing":"1.467s"}
+{"level":"info","msg":"calculated blackjack hand as: 18 against dealer's 8","time":"2022-02-04T14:50:05+05:30"}
+{"level":"info","msg":"current wallet balance: 21,495 coins","time":"2022-02-04T14:50:05+05:30"}
+{"level":"info","msg":"average income: 159,980 coins/h","time":"2022-02-04T14:50:05+05:30"}
+{"delay":"461ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:50:09+05:30","typing":"1.576s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-02-04T14:50:19+05:30"}
+{"delay":"285ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:50:20+05:30","typing":"928ms"}
+{"delay":"162ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:50:24+05:30","typing":"2.214s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:50:39+05:30"}
+{"delay":"174ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:50:39+05:30","typing":"1.112s"}
+{"delay":"463ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:50:41+05:30","typing":"960ms"}
+{"delay":"289ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:50:44+05:30","typing":"1.7s"}
+{"level":"info","msg":"calculated blackjack hand as: soft15 against dealer's 5","time":"2022-02-04T14:50:51+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 15 against dealer's 5","time":"2022-02-04T14:50:52+05:30"}
+{"delay":"275ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:50:53+05:30","typing":"1.095s"}
+{"level":"info","msg":"calculated blackjack hand as: 15 against dealer's 5","time":"2022-02-04T14:50:53+05:30"}
+{"level":"info","msg":"current wallet balance: 30,608 coins","time":"2022-02-04T14:50:53+05:30"}
+{"level":"info","msg":"average income: 222,096 coins/h","time":"2022-02-04T14:50:53+05:30"}
+{"delay":"453ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:50:56+05:30","typing":"1.062s"}
+{"delay":"449ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:50:58+05:30","typing":"1.24s"}
+{"delay":"458ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:51:01+05:30","typing":"1.539s"}
+{"delay":"244ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:51:05+05:30","typing":"2.147s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:51:23+05:30"}
+{"delay":"336ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:51:23+05:30","typing":"1.472s"}
+{"delay":"186ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:51:27+05:30","typing":"1.287s"}
+{"delay":"214ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:51:30+05:30","typing":"1.686s"}
+{"level":"info","msg":"calculated blackjack hand as: 15 against dealer's A","time":"2022-02-04T14:51:33+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:51:34+05:30"}
+{"level":"info","msg":"current wallet balance: 41,696 coins","time":"2022-02-04T14:51:34+05:30"}
+{"level":"info","msg":"average income: 290,896 coins/h","time":"2022-02-04T14:51:34+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:51:41+05:30"}
+{"delay":"232ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:51:41+05:30","typing":"818ms"}
+{"delay":"253ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:51:44+05:30","typing":"1.403s"}
+{"delay":"351ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:51:48+05:30","typing":"2.285s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-02-04T14:51:57+05:30"}
+{"level":"info","msg":"sleeping for 20 seconds","time":"2022-02-04T14:51:57+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:52:24+05:30"}
+{"delay":"294ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:52:25+05:30","typing":"968ms"}
+{"delay":"421ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:52:28+05:30","typing":"1.009s"}
+{"delay":"237ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:52:30+05:30","typing":"1.117s"}
+{"delay":"103ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:52:33+05:30","typing":"1.487s"}
+{"level":"info","msg":"calculated blackjack hand as: soft18 against dealer's 9","time":"2022-02-04T14:52:36+05:30"}
+{"delay":"305ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:52:37+05:30","typing":"1.233s"}
+{"level":"info","msg":"calculated blackjack hand as: soft18 against dealer's 9","time":"2022-02-04T14:52:37+05:30"}
+{"level":"info","msg":"current wallet balance: 43,997 coins","time":"2022-02-04T14:52:37+05:30"}
+{"level":"info","msg":"average income: 271,397 coins/h","time":"2022-02-04T14:52:37+05:30"}
+{"delay":"403ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:52:40+05:30","typing":"1.526s"}
+{"delay":"340ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:52:44+05:30","typing":"1.112s"}
+{"delay":"190ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:52:47+05:30","typing":"1.376s"}
+{"delay":"393ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:52:51+05:30","typing":"2.213s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:53:05+05:30"}
+{"delay":"459ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:53:06+05:30","typing":"1.092s"}
+{"delay":"303ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:53:08+05:30","typing":"884ms"}
+{"level":"info","msg":"current wallet balance: 46,751 coins","time":"2022-02-04T14:53:08+05:30"}
+{"level":"info","msg":"average income: 274,138 coins/h","time":"2022-02-04T14:53:08+05:30"}
+{"delay":"379ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:53:11+05:30","typing":"1.392s"}
+{"delay":"355ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:53:14+05:30","typing":"1.591s"}
+{"level":"info","msg":"calculated blackjack hand as: 16 against dealer's 8","time":"2022-02-04T14:53:17+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:53:18+05:30"}
+{"level":"info","msg":"current wallet balance: 45,117 coins","time":"2022-02-04T14:53:19+05:30"}
+{"level":"info","msg":"average income: 258,160 coins/h","time":"2022-02-04T14:53:19+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:53:25+05:30"}
+{"delay":"414ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:53:25+05:30","typing":"1.363s"}
+{"delay":"382ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:53:29+05:30","typing":"2.181s"}
+{"delay":"397ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:53:40+05:30","typing":"974ms"}
+{"delay":"496ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:53:43+05:30","typing":"1.064s"}
+{"delay":"137ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:53:45+05:30","typing":"1.561s"}
+{"delay":"322ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:53:49+05:30","typing":"1.612s"}
+{"level":"info","msg":"calculated blackjack hand as: 16 against dealer's 9","time":"2022-02-04T14:53:52+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 19 against dealer's 9","time":"2022-02-04T14:53:52+05:30"}
+{"delay":"179ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:53:53+05:30","typing":"847ms"}
+{"level":"info","msg":"calculated blackjack hand as: 19 against dealer's 9","time":"2022-02-04T14:53:54+05:30"}
+{"level":"info","msg":"current wallet balance: 51,005 coins","time":"2022-02-04T14:53:54+05:30"}
+{"level":"info","msg":"average income: 278,908 coins/h","time":"2022-02-04T14:53:54+05:30"}
+{"delay":"267ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:53:57+05:30","typing":"1.494s"}
+{"delay":"151ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:54:01+05:30","typing":"1.257s"}
+{"delay":"417ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:54:09+05:30","typing":"986ms"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: pls hl","time":"2022-02-04T14:54:19+05:30"}
+{"delay":"433ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:54:19+05:30","typing":"2.151s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:54:39+05:30"}
+{"delay":"232ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:54:39+05:30","typing":"1.098s"}
+{"delay":"396ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:54:41+05:30","typing":"1.705s"}
+{"level":"info","msg":"calculated blackjack hand as: 15 against dealer's 10","time":"2022-02-04T14:54:44+05:30"}
+{"level":"info","msg":"calculated blackjack hand as: 18 against dealer's 10","time":"2022-02-04T14:54:45+05:30"}
+{"delay":"185ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:54:46+05:30","typing":"1.396s"}
+{"level":"info","msg":"calculated blackjack hand as: 18 against dealer's 10","time":"2022-02-04T14:54:46+05:30"}
+{"level":"info","msg":"current wallet balance: 57,643 coins","time":"2022-02-04T14:54:46+05:30"}
+{"level":"info","msg":"average income: 293,335 coins/h","time":"2022-02-04T14:54:46+05:30"}
+{"delay":"178ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:54:50+05:30","typing":"1.462s"}
+{"delay":"306ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:54:54+05:30","typing":"946ms"}
+{"delay":"203ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:54:57+05:30","typing":"1.341s"}
+{"delay":"248ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:55:01+05:30","typing":"1.116s"}
+{"delay":"462ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:55:03+05:30","typing":"2.147s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:55:19+05:30"}
+{"delay":"309ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:55:19+05:30","typing":"831ms"}
+{"delay":"344ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:55:22+05:30","typing":"1.467s"}
+{"level":"info","msg":"calculated blackjack hand as: 12 against dealer's 7","time":"2022-02-04T14:55:24+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:55:25+05:30"}
+{"level":"info","msg":"current wallet balance: 58,629 coins","time":"2022-02-04T14:55:25+05:30"}
+{"level":"info","msg":"average income: 281,724 coins/h","time":"2022-02-04T14:55:25+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:55:32+05:30"}
+{"delay":"462ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:55:32+05:30","typing":"875ms"}
+{"delay":"412ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:55:35+05:30","typing":"1.489s"}
+{"delay":"257ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:55:39+05:30","typing":"1.123s"}
+{"delay":"324ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:55:43+05:30","typing":"2.257s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:55:59+05:30"}
+{"delay":"499ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:55:59+05:30","typing":"1.611s"}
+{"level":"info","msg":"calculated blackjack hand as: 15 against dealer's 10","time":"2022-02-04T14:56:02+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:56:03+05:30"}
+{"level":"info","msg":"current wallet balance: 59,405 coins","time":"2022-02-04T14:56:03+05:30"}
+{"level":"info","msg":"average income: 270,798 coins/h","time":"2022-02-04T14:56:03+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:56:09+05:30"}
+{"delay":"163ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:56:09+05:30","typing":"1.446s"}
+{"delay":"349ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:56:13+05:30","typing":"1.168s"}
+{"delay":"383ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:56:16+05:30","typing":"1.322s"}
+{"delay":"169ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:56:20+05:30","typing":"1.123s"}
+{"delay":"118ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:56:24+05:30","typing":"989ms"}
+{"delay":"468ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:56:26+05:30","typing":"1.398s"}
+{"delay":"377ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:56:30+05:30","typing":"907ms"}
+{"delay":"365ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:56:34+05:30","typing":"2.208s"}
+{"delay":"290ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:56:45+05:30","typing":"1.706s"}
+{"level":"info","msg":"calculated blackjack hand as: 13 against dealer's 6","time":"2022-02-04T14:56:49+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:56:50+05:30"}
+{"level":"info","msg":"current wallet balance: 59,695 coins","time":"2022-02-04T14:56:50+05:30"}
+{"level":"info","msg":"average income: 255,368 coins/h","time":"2022-02-04T14:56:50+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:56:56+05:30"}
+{"delay":"120ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:56:56+05:30","typing":"885ms"}
+{"delay":"137ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:57:00+05:30","typing":"1.39s"}
+{"delay":"292ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:57:04+05:30","typing":"1.197s"}
+{"delay":"376ms","level":"info","msg":"sending command: pls bal","time":"2022-02-04T14:57:08+05:30","typing":"1.107s"}
+{"delay":"410ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:57:10+05:30","typing":"1.424s"}
+{"level":"info","msg":"current wallet balance: 63,112 coins","time":"2022-02-04T14:57:11+05:30"}
+{"level":"info","msg":"average income: 264,357 coins/h","time":"2022-02-04T14:57:11+05:30"}
+{"delay":"191ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:57:14+05:30","typing":"2.198s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:57:29+05:30"}
+{"delay":"389ms","level":"info","msg":"sending command: pls dig","time":"2022-02-04T14:57:29+05:30","typing":"1.167s"}
+{"delay":"152ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:57:32+05:30","typing":"1.628s"}
+{"level":"info","msg":"calculated blackjack hand as: 19 against dealer's 2","time":"2022-02-04T14:57:35+05:30"}
+{"delay":"297ms","level":"info","msg":"sending command: pls hl","time":"2022-02-04T14:57:37+05:30","typing":"878ms"}
+{"level":"info","msg":"calculated blackjack hand as: 19 against dealer's 2","time":"2022-02-04T14:57:38+05:30"}
+{"level":"info","msg":"current wallet balance: 62,503 coins","time":"2022-02-04T14:57:38+05:30"}
+{"level":"info","msg":"average income: 252,871 coins/h","time":"2022-02-04T14:57:38+05:30"}
+{"delay":"209ms","level":"info","msg":"sending command: pls crime","time":"2022-02-04T14:57:41+05:30","typing":"1.254s"}
+{"delay":"464ms","level":"info","msg":"sending command: pls beg","time":"2022-02-04T14:57:45+05:30","typing":"1.025s"}
+{"delay":"391ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:57:47+05:30","typing":"1.48s"}
+{"delay":"399ms","level":"info","msg":"sending command: pls hunt","time":"2022-02-04T14:57:50+05:30","typing":"1.088s"}
+{"delay":"316ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:57:54+05:30","typing":"2.154s"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:58:09+05:30"}
+{"delay":"252ms","level":"info","msg":"sending command: pls bj 3000","time":"2022-02-04T14:58:09+05:30","typing":"1.613s"}
+{"level":"info","msg":"calculated blackjack hand as: 13 against dealer's 3","time":"2022-02-04T14:58:13+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"error while counting aces: hand is bust","time":"2022-02-04T14:58:14+05:30"}
+{"level":"info","msg":"current wallet balance: 60,003 coins","time":"2022-02-04T14:58:14+05:30"}
+{"level":"info","msg":"average income: 231,361 coins/h","time":"2022-02-04T14:58:14+05:30"}
+{"cluster":"default","instance":"Arsh#3614","level":"error","msg":"await resume timed out for: ","time":"2022-02-04T14:58:21+05:30"}
+{"delay":"239ms","level":"info","msg":"sending command: pls search","time":"2022-02-04T14:58:21+05:30","typing":"1.565s"}
+{"delay":"265ms","level":"info","msg":"sending command: pls pm","time":"2022-02-04T14:58:25+05:30","typing":"989ms"}
+{"delay":"211ms","level":"info","msg":"sending command: pls trivia","time":"2022-02-04T14:58:28+05:30","typing":"1.463s"}
+{"delay":"324ms","level":"info","msg":"sending command: pls fish","time":"2022-02-04T14:58:31+05:30","typing":"1.074s"}
+{"delay":"344ms","level":"info","msg":"sending command: pls scratch 1000","time":"2022-02-04T14:58:35+05:30","typing":"2.174s"}
